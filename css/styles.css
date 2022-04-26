@@ -1,0 +1,45 @@
+article p{
+    color: RGBA(10, 10, 9,0.5);
+}
+
+.textoNegro{
+    color: black;
+}
+
+.textoGrande{
+    font-size: 30px;
+}
+
+.textoBeige{
+    color: beige;
+}
+
+.textoNegro2{
+    color: black;
+}
+
+.textoGrande2{
+    font-size: 20px;
+}
+
+#paginaentera{
+    background-color: #f8f0e6  ;
+     
+}
+
+ul {
+    list-style-type: none;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.textoGrande3 {
+    font-size: 35px;
+}
+
+@font-face {
+    font-family: ;
+    src: url();
+}
